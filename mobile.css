@@ -1,0 +1,156 @@
+ 
+/* ########################################## */
+* {
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    background-color: rgb(240, 240, 240);
+  }
+  nav {
+    padding: 10px;
+  }
+  #header {
+    background-color: rgb(76, 89, 146);
+     
+   
+  }
+  h1 {
+    
+    margin-left: 10%;
+    
+    font-size: 32px;
+    padding-top: 0px;
+    
+  
+    color: white;
+    font-family: sans-serif;
+  }
+  .btn {
+    display: flex;
+    margin-left: 66%;
+    margin-top: -21px;
+    color: white;
+    font-size: 9px;
+    font-family: sans-serif;
+    padding: 2px 0px;
+    cursor: pointer;
+    background-color: rgb(109, 109, 182);
+  }
+  /* ################################################ */
+  .container h1 {
+    display: flex;
+    font-family: sans-serif;
+    margin-top: 50px;
+   
+    margin-left: 10%;
+    color: rgb(51, 49, 49);
+    font-size: 22px;
+  }
+  .container h2 {
+     
+    margin-left: 10%;
+    font-family: sans-serif;
+    color: rgb(51, 49, 49);
+    font-size: 15px;
+  }
+  .validation {
+   
+    margin-left: 10%;
+    padding-top: 20px;
+  }
+  .form-control0{
+    padding: 0px 32px;
+    padding-left: 6px;
+    font-size: 20px;
+    border-radius: 11px;
+  }
+  .form-control1 {
+    padding: 0px 32px;
+    padding-left: 6px;
+    font-size: 20px;
+    border-radius: 11px;
+  }
+  .form-control2,.form-control3 {
+    padding: 0px 32px;
+    padding-left: 6px;
+    font-size: 20px;
+    border-radius: 11px;
+   }
+  
+  .btn-primary {
+    background-color: rgb(39, 131, 39);
+    font-size: 13px;
+    font-weight: bolder;
+    padding: 8px 26px;
+    border-radius: 23px;
+    color: white;
+    margin-top: 37px;
+    margin-bottom: 50px;
+    box-shadow: 2px 4px 11px -1px black;
+    cursor: pointer;
+  }
+  .btn-primary:hover {
+    color: rgb(233, 221, 221);
+  }
+  /* ############################################## */
+  .brith h3 {
+    color: rgb(121, 115, 115);
+    font-size: 16px;
+    font-family: sans-serif;
+    margin-bottom: 8px;
+  }
+  .time {
+    padding: 0px;
+  }
+  .gender h3 {
+    color: rgb(121, 115, 115);
+    font-size: 16px;
+    font-family: sans-serif;
+    margin-bottom: 8px;
+  }
+  .sex {
+    font-size: 13px;
+    /* margin-left: -2; */
+    padding: 0px 19px 0px 0px;
+    font-family: sans-serif;
+    color: rgb(20, 20, 20);
+  }
+  p._para{
+    display: inline;
+  }
+  #terms-link {
+    text-decoration: none;
+  }
+  
+  .ff {
+    background-color: white;
+     
+    overflow: hidden;
+  }
+  .ff p {
+    display: black;
+    padding: 0px 0 25px 0;
+  }
+  
+  .hr {
+    margin: -1% 15% -1% 15%;
+    color: rgb(109, 152, 192);
+  }
+  .ff a {
+    text-decoration: none;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: -10%;
+    color: rgb(109, 152, 192);
+    padding: -1px;
+  }
+  /* ############################################### */
+  .copyright p {
+    display: block;
+    margin-left: -16%;
+    color: rgb(144, 149, 150);
+  }
+  /* ###################################################S */
+  
+  
